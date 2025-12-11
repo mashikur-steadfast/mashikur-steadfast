@@ -1,54 +1,69 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mashikur Rahman Mirash</h1>
-<h3 align="center">Software Engineer & DevOps Expert</h3>
+# 👋 Hi, I'm Mashikur Rahman Mirash
 
+### 🚀 Software Engineer & DevOps Expert
 
----
-
-## 🚀 About Me
-
-- 💼 Passionate about **Software Engineering & DevOps**
-- 🌐 Building clean, scalable, high-performance systems
-- 🤝 Looking to collaborate on **open-source** & **automation tools**
-- 🌱 Currently exploring **cloud-native tools & DevOps pipelines**
+I'm passionate about building clean, scalable, and high-performance systems. My expertise spans software engineering and DevOps, with a focus on automation, cloud-native technologies, and efficient development workflows.
 
 ---
 
-## 🏆 GitHub Highlights
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mashikur-steadfast&theme=onedark&no-frame=true&margin-w=5" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashikur-steadfast&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashikur-steadfast&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mashikur-steadfast&theme=tokyonight&hide_border=true)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mashikur-steadfast&theme=onedark&no-frame=true&row=2&column=3)
+
+## 🔧 Tech Stack
+
+### 💻 Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📊 Development Workflow
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker
+- **Web Servers**: Nginx
+- **Operating Systems**: Linux
+- **Cloud**: AWS
+- **Scripting**: Bash, Shell
+
+## 🌱 Currently Exploring
+- Cloud-native technologies and tools
+- Advanced DevOps pipelines and automation
+- Scalable system architecture
+- Performance optimization techniques
+
+## 🤝 Collaboration Interests
+I'm actively looking to collaborate on:
+- Open-source projects
+- Automation tools and scripts
+- DevOps tooling and infrastructure
+- Performance monitoring solutions
+- CI/CD pipeline improvements
+
+## 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashikur-steadfast)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mashikur-steadfast&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashikur-steadfast&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashikur-steadfast&theme=tokyonight" />
-</p>
+⭐ **If you find my work interesting, consider giving a star to my repositories!**  
+💡 **Always open to interesting discussions and new opportunities!**
 
 ---
-
-## 🔧 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,nodejs,git,github,linux,docker,bash,nginx,aws" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/mashikur-steadfast"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
-</p>
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
-
-Give me a nice readme md for github
