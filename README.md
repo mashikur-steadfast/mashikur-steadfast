@@ -4,19 +4,6 @@
 
 I'm passionate about building clean, scalable, and high-performance systems. My expertise spans software engineering and DevOps, with a focus on automation, cloud-native technologies, and efficient development workflows.
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashikur-steadfast&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashikur-steadfast&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mashikur-steadfast&theme=tokyonight&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mashikur-steadfast&theme=onedark&no-frame=true&row=2&column=3)
 
 ## 🔧 Tech Stack
 
